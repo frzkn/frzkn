@@ -25,7 +25,6 @@ Here are some ideas to get you started:
 - 🏢 I'm currently working at **CityMall**
 - ⚙️ I daily use: `.js`, `.html`, `.css`
 - 🤓 Developed: [useImagesLoaded](https://use-images-loaded.netlify.app), [SmashKeys](https://smashkeys.netlify.app), [etc…](https://github.com/frzkn/repositories)
-- 🎨 I've a portfolio, checkout here [Faraz's Portfolio](https://farazkhan.me)
 - 💬 Ping me about **design**, **react**, **react native**, **development**
 - 📧 Reach out to me: [twitter.com/farazkhantweets](https://twitter.com/farazkhantweets)
 - 🎮 Hobbies: I like UI designing and playing video games and making lame jokes (btw i use arch 🐧)
