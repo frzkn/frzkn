@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
  I'm a full stack web and app developer, amateur designer and a linux enthusiast working remotely from Mumbai, India 🇮🇳
-- 🏢 I'm currently working at **CityMall**
+- 🏢 I'm currently working at **Stake**
 - ⚙️ I daily use: `.js`, `.html`, `.css`
 - 🤓 Developed: [useImagesLoaded](https://use-images-loaded.netlify.app), [SmashKeys](https://smashkeys.netlify.app), [etc…](https://github.com/frzkn/repositories)
 - 💬 Ping me about **design**, **react**, **react native**, **development**
